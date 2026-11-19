@@ -1,0 +1,44 @@
+client,product_type,industry,platform,weeks_to_first_version,published_features,marketplace,Payments taken in the product,Held payment or escrow,Verification of users or providers,"Search, filters or browse",Matching or automatic routing,"Booking, scheduling or calendar",Reviews or ratings,"Notifications, alerts or reminders",Direct messaging between users,Operator dashboard or analytics,Connection to an outside system,"Documents, contracts or e-signature",Map or live location,AI or machine-learning feature,"Social layer (follows, feed, groups)",Approval steps or roles,"Export (PDF, CSV, calendar, reports)",Works offline,"Self-managed content (CMS, guides, library)",case_study_url
+Adapted Co,Vegan discovery and review platform,Hospitality,Web app,6,6,yes,1,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,https://aibrevo.com/work/adapted-co-vegan-discovery-platform/
+Alendil,Short-term rental marketplace,Travel,Web app,7,5,yes,1,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,https://aibrevo.com/work/alendil-rental-marketplace/
+Bingo Buddy,Event booking app,Entertainment,Web app,6,6,yes,1,0,0,1,0,1,0,1,0,1,0,0,1,0,1,0,0,0,1,https://aibrevo.com/work/bingobuddy-event-booking-app/
+Birdie,AI travel planner,Travel,Web app,8,5,no,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,https://aibrevo.com/work/birdie-ai-travel-planning/
+Campaign Sync,Marketing campaign automation platform,Marketing,Web app,7,5,no,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,https://aibrevo.com/work/campaign-sync-marketing-automation-suite/
+Common Faktor,Dating app,Consumer social,Mobile app,7,5,no,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://aibrevo.com/work/commonfaktor-south-asian-dating/
+Coo the App,Community fundraising platform,Nonprofit and community,Web app,6,6,no,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,https://aibrevo.com/work/coo-fundraiser-fundraising-app/
+Coo the App,Local deals marketplace,Local commerce,Web app,6,5,yes,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,https://aibrevo.com/work/coo-local-deals/
+Cyrano Brands,Creator storefront platform,Ecommerce,Web app,8,5,yes,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://aibrevo.com/work/cyrano-brands-creator-stores/
+DEMP Agency,Content strategy platform,Marketing,Internal tool,6,5,no,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,https://aibrevo.com/work/demp-agency-content-strategy-platform/
+Drop My Drip,Custom apparel design store,Ecommerce,Web app,8,5,no,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://aibrevo.com/work/drop-my-drip-custom-apparel-store/
+Edge Case Capital,VC deal-tracking CRM,Venture capital,Internal tool,6,6,no,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,https://aibrevo.com/work/edgebase-vc-deal-tracking-crm/
+Eva Social,AI content planning and scheduling tool,Marketing,Web app,7,6,no,0,0,0,0,0,1,0,1,0,1,1,0,0,1,0,1,0,0,1,https://aibrevo.com/work/eva-social-ai-content-studio/
+Farmers Market Haul,Local produce discovery marketplace,Food and local produce,Mobile app,6,6,yes,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,1,https://aibrevo.com/work/farmers-market-haul/
+Fer Vor,Specialist stylist discovery and booking marketplace,Beauty and hair care,Web app,7,6,yes,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,https://aibrevo.com/work/fervor-stylist-discovery-network/
+GoHangars,Hangar storage marketplace,Aviation,Web app,7,6,yes,1,0,1,1,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,https://aibrevo.com/work/gohangars-aviation-storage-marketplace/
+GreekVibes,Alumni networking app,Consumer social,Mobile app,6,6,no,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,https://aibrevo.com/work/greekvibes-greek-life-app/
+Hago,Home services marketplace,Home services,Web app,8,6,yes,1,1,1,0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,https://aibrevo.com/work/hago-home-services-marketplace/
+HirePrep Inc.,Adaptive interview training platform,Education,Web app,8,6,no,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://aibrevo.com/work/hireprep-ib-interview-training/
+Homer,Home buying transaction platform,Real estate,Web app,9,5,no,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,https://aibrevo.com/work/homer-digital-home-buying-platform/
+Infuse CTL,In-home treatment booking marketplace,Healthcare,Web and mobile,7,6,yes,1,0,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,https://aibrevo.com/work/infuse-ctl-healthcare-services-marketplace/
+Think K-12,AI assistant platform,SaaS,Web app,7,6,no,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,https://aibrevo.com/work/ingio-ai-assistant-hub/
+Internet Travel Solutions,Enterprise B2B website,Travel and aviation services,Website,5,6,no,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,https://aibrevo.com/work/its-website-airline-travel/
+Charter Aviation Company,Charter website with quote request flow,Private charter aviation,Website,5,6,no,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,https://aibrevo.com/work/jetstarix-charter-aviation/
+Life Line Ambulances,"Event staffing, scheduling and billing system",Healthcare (EMS),Web and mobile,8,6,no,1,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,https://aibrevo.com/work/lifeline-ems-event-manager/
+Life Line Ambulances,Event medical dispatch and live site map platform,Healthcare (EMS),Web and mobile,9,6,no,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,1,1,0,https://aibrevo.com/work/lifeline-event-ems/
+Load Management,Two-sided talent booking marketplace,Entertainment and talent booking,Web app,6,6,yes,1,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,https://aibrevo.com/work/load-talent-marketplace/
+Loop Biolabs,Supplement store with guided programmes,Wellness ecommerce,Web app,6,6,no,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,https://aibrevo.com/work/loop-peptide-wellness-store/
+Miami Dolphins,Premium suite booking platform,Sports and hospitality,Web app,9,6,no,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,https://aibrevo.com/work/miami-dolphins-premium-suites/
+Miami Open Tennis Tournament,Tournament hospitality booking platform,Sports and hospitality,Web app,8,6,no,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,https://aibrevo.com/work/miami-open-premium-suites/
+My Rich Aunt,Student fundraising platform,Education,Web app,6,6,yes,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,https://aibrevo.com/work/my-rich-aunt-student-fundraising-hub/
+Our Fusion,Curated paid professional community platform,Professional communities,Web app,7,6,no,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,https://aibrevo.com/work/our-fusion-professional-community-platform/
+Papri,Bengali literature publishing and reading platform,Publishing and Literature,Web and mobile,6,6,no,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,https://aibrevo.com/work/papri-bengali-literature-app/
+Probado,User testing and QA marketplace,Software Testing and QA,Web app,8,5,yes,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,https://aibrevo.com/work/probado-product-testing/
+Push App,Friend-based restaurant discovery app,Hospitality,Mobile app,8,6,no,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,0,0,0,0,https://aibrevo.com/work/push-restaurant-discovery/
+Life Line Ambulances,Ambulance transport request and dispatch platform,Healthcare and EMS,Web and mobile,8,6,no,0,0,0,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,https://aibrevo.com/work/respond-central-ems-dispatch-app/
+Simply Bids,Landscaping project bidding marketplace,Home Services and Landscaping,Web app,7,6,yes,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,https://aibrevo.com/work/simply-bids-landscaping-service-network/
+Social Grid,Influencer discovery and campaign platform,Influencer Marketing,Web app,7,6,yes,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,https://aibrevo.com/work/social-grid-influencer-discovery-platform/
+Spirit Airlines,Group booking and admin platform,Airline,Web app,10,5,no,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,https://aibrevo.com/work/spirit-airlines-group-booking/
+Wellness Supplement Brand,Supplement routine tracking app,Health and Wellness,Mobile app,6,6,no,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,https://aibrevo.com/work/stackstack-wellness-tracking/
+Stridely,Social fitness tracking app,Health and Fitness,Mobile app,6,6,no,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,https://aibrevo.com/work/stridely-social-fitness-tracker/
+Vassumable,Assumable mortgage transaction platform,Real Estate,Web app,8,6,no,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,https://aibrevo.com/work/vassumable-property-purchase-app/
+Wingman Pilot,Pilot hiring marketplace,Aviation,Web app,7,6,yes,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,https://aibrevo.com/work/wingman-pilot-hiring/
