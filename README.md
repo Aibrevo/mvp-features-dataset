@@ -26,4 +26,4 @@ Source: the published feature lists of 44 builds on aibrevo.com. DAIN has no fea
 
 ## About
 
-aibrevo is a software development company in San Francisco, founded in 2021 by Alpit Patel. We build web apps, mobile apps, MVPs and AI apps. https://aibrevo.com
+aibrevo is a software development company in San Francisco, founded in 2021. We build web apps, mobile apps, MVPs and AI apps. https://aibrevo.com
